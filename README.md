@@ -1,6 +1,6 @@
 #Project 1
 
-Project Title: How Crime Rates Affect Housing Prices
+Project Title: Relationships Between Crime and Income
 
 Team Members: Delayna Bradshaw, Kerry Kovacik, Michael Kung, Tito Odunsi
 
