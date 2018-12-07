@@ -1,22 +1,22 @@
-##Project 1
+#Project 1
 
 Project Title: How Crime Rates Affect Housing Prices
 
 Team Members: Delayna Bradshaw, Kerry Kovacik, Michael Kung, Tito Odunsi
 
 Project Description/Outline: 
-Collect average housing prices by zip code by year for the last 5 years and calculate their rates of change. Collect crime rate volume by type and zip code for the last 5 years and calculate their rates of change.
+Collect average income by zip code of 2007 compared to 2017 and calculate their rates of change. Collect crime rate volume by type and zip code for 2007 compared to 2017 and calculate their rates of change.
 
 Research Questions to Answer: 
-How have housing prices changed by zip code in the last 5 years?
-How have crime rates changed by zip code in the last 5 years?
-Has their been a slower appreciation of home values in areas that have higher crime rates?
+* How have incomes changed by zip code from 2007 to 2017 (10 year look back)?
+* How have crime rates changed by zip code from 2007 to 2017?
+* Is there a correlation between income rates (increase or decrease) and amount of crime? Does type matter (ie: theft)?
 
-Datasets to be used: Austintexas.gov, Zillow
+Datasets to be used: Austintexas.gov, Census, Google Maps
 
 Rough Breakdown of Tasks: 
-API request for crime data.
-API request for housing price data.
-Clean and merge data. 
-Create visualizations to answer research questions.
+* API request for crime data by zip code and type for 2007 and 2017.
+* API request for income (household and per capita) for 2007 and 2017.
+* Clean and merge data. 
+* Create visualizations to answer research questions.
 
